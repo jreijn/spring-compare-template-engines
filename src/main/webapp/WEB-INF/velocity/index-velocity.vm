@@ -1,3 +1,4 @@
+#parse("/WEB-INF/velocity/includes.vm")
 <!DOCTYPE html>
 <html>
 #head()
